@@ -18,6 +18,7 @@ tags: node
  2、是否不擅长 CPU密集型业务
  3、与遗留系统和平共处
  4、分布式应用
+ 5、开源硬件
 
 1.6 node 使用者
 1.7 参考资源
@@ -41,6 +42,8 @@ Node.js®
 node打破了过去 js只能在浏览器中运行的局面。前后端编程环境统一，可以大大降低前后端转换所需要的上下文交换代价。
 
 node-webkit 的出现
+atom
+
 工具类
 grunt
 gulp
@@ -108,6 +111,9 @@ https://github.com/alibaba/macaca
 http://macacajs.github.io/macaca/
 https://github.com/reliablejs/reliable-master
 
+1.5.5 开源硬件 
+https://cnodejs.org/topic/54032efa9769c2e93797cd06
+
 **1.6 node 使用者**
 ![此处输入图片的描述][3]
 
@@ -133,6 +139,7 @@ SpiderNode
 Mozilla对Node.js项目产生了兴趣，正将Node.js移植到Firefox使用的SpiderMonkey引擎中，它的项目被称为SpiderNode，其中所用的技术被称为V8Monkey。由于Node.js与V8是深度整合，因此Mozilla采用的方法是在SpiderMonkey中建立V8接口。Mozilla的目标是创建一个与Node.js不同的版本。
 https://cnodejs.org/topic/53eb7c1df4b616a82f2338f6
 本章参考
+http://www.admin10000.com/document/4196.html
 https://nodejs.org/dist/latest-v4.x/docs/api/
 https://www.baidu.com/s?wd=%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js+site%3Ainfoq.com&rsv_spt=1&rsv_iqid=0xa0e93a3500016f78&issp=1&f=8&rsv_bp=0&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&inputT=13006
 http://www.infoq.com/cn/articles/what-is-nodejs
