@@ -1,7 +1,7 @@
 ---
 title: nodejs 简介(第一讲)
 date: 2016-04-12 11:52:31
-tags: node
+tags: ['node']
 ---
 
 1.1 Node的诞生
