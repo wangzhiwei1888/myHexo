@@ -8,6 +8,7 @@ tags:
 
 CommonJS规范为JavaScript制定了一个好的愿景——希望JavaScript能够在任何地方运行。
 
+<!-- more -->
 
 ![此处输入图片的描述][2]
 
