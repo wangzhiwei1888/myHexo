@@ -1,14 +1,22 @@
+title: nodejs 模块机制(第二讲)
+tags: []
+categories: []
+date: 2016-04-19 13:53:00
 ---
 title: nodejs 模块机制(第二讲)
 date: 2016-04-19 13:53:54
 tags:
 ---
 
-![JavaScript的变迁][1]
 
 CommonJS规范为JavaScript制定了一个好的愿景——希望JavaScript能够在任何地方运行。
 
+
 <!-- more -->
+
+
+![JavaScript的变迁][1]
+
 
 ![此处输入图片的描述][2]
 
@@ -67,9 +75,3 @@ http://npmjs.org/doc/developers.html#The-package-json-File
   [10]: /img/node14.png
   [11]: /img/node15.png
   [12]: /img/node16.png
-
-
-
-
-
-

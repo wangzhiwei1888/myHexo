@@ -72,3 +72,7 @@ deploy:
      type: git
      repo: git@github.com:wangzhiwei1888/wangzhiwei1888.github.io.git
      branch: master
+admin:
+    deployCommand: hexo deploy
+
+
